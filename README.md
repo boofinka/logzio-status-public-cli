@@ -24,14 +24,14 @@ A simple CLI tool for checking the current status of [Logz.io](https://logz.io) 
 2. Navigate to the CLI folder
 
 3. install required packages:
-  ```sh
-  pip3 install requirements.txt
-  ```
+   ```sh
+   pip3 install requirements.txt
+   ```
 
 4. Run the script:
-  ```sh
-  python3 statusPageAPI.py
-  ```
+   ```sh
+   python3 statusPageAPI.py
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
