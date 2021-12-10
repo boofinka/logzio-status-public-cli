@@ -33,7 +33,6 @@ for region in region_list:
             if comp == x["id"] and x["group"] == False:
                 rd[x["name"]] = x["status"]
                 region_dict[rn] = rd
-region_dict_json = json.dumps(region_dict, indent=2)
 
 ## MENU ##
 while keep:
